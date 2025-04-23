@@ -1,0 +1,19 @@
+{
+  "name": "7s3ven7/ecomerce",
+  "authors": [
+    {
+    "name": "Wesley Gabriel Trentin Rodrigues",
+    "email": "7s3ven7@gmail.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "5.2.22",
+    "slim/slim": "2.0",
+    "rain/raintpl": "3.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "vendor\\7s3ven7\\php-class\\src"
+    }
+  }
+}

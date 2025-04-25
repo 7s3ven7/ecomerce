@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "wesley\\": "vendor\\projeto\\src\\classes_php"
+      "wesley\\": "vendor\\projeto\\classes_php\\src"
     }
   }
 }

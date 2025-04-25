@@ -40,7 +40,7 @@ class ComposerStaticInit63907aa929289fe27d27261b5e6d69d6
     public static $prefixDirsPsr4 = array (
         'wesley\\' => 
         array (
-            0 => __DIR__ . '/..' . '/projeto/src/classes_php',
+            0 => __DIR__ . '/..' . '/projeto/classes_php/src',
         ),
         'Symfony\\Polyfill\\Php80\\' => 
         array (
